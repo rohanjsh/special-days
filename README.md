@@ -1,6 +1,7 @@
 # special_day
 
 A new Flutter project.
+https://specialdays.netlify.app/#/
 
 ## Getting Started
 
