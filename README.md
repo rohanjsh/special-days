@@ -1,7 +1,10 @@
-# special_day
+# Special Days
+For small occasions, virtual greetings to make someone's day special.
 
 A new Flutter project for web.
 https://specialdays.netlify.app/#/
+
+![Screenshot 2021-06-01 at 05 25 04](https://user-images.githubusercontent.com/35066779/120249835-c670d400-c299-11eb-8a35-aeaee6ba7115.png)
 
 ## Getting Started
 
